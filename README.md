@@ -1,1 +1,1 @@
-# list_tupl_dicc_ejp
+# Repositorio con explicaciones y ejercicios de listas, tuplas y diccionarios.
